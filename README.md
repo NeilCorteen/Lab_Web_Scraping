@@ -27,10 +27,10 @@ The updated csv file can be viewed [here](./UpdatedData/house_price_data.csv).
 
 Initial steps explored how to extract data from website using the html and css code.
 
-A basic testing phase with annotations can be seen [here](./SQL/SQL_Solution.md)
+A basic testing phase with annotations can be seen [here](./Webscraping_basic_testing_with_annotations.ipynb)
 
 
-An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen here:
+An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen [here](./Webscraping_Billboard_Top100.ipynb)
 
 
 An example of using an API functions from Spotify and then collating the information in a dataframe can can be seen here: 
