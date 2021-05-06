@@ -1,6 +1,6 @@
 # The aim of the project was to collate music data for use in a machine learning application to make user recommendations.
 
-Neil Corteen, May 2021
+### Neil Corteen, May 2021
 
 Music was collated music using various methods:
 Web scraping, single pages,
