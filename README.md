@@ -3,20 +3,31 @@
 ### Neil Corteen, May 2021
 
 Music was collated music using various methods:
-Web scraping, single pages/
-Web scraping, multiple pages/
-Application Programming Interface (APIs)/
-Application Programming Interface (API) Wrappers/
+- Web scraping, single pages/
+- Web scraping, multiple pages/
+- Application Programming Interface (APIs)/
+- Application Programming Interface (API) Wrappers/
 
 The main websites used were:
-www.billboard.com
-www.spotify.com
-www.imdb.com
+- www.billboard.com
+- www.spotify.com
+- www.imdb.com
+
+*********
+- SQL querie Solution [here](./SQL/SQL_Solution.md)
+- A Tableau Dashboard [here](./Tableau/Dashboard_Image.png)
+- Python code [here](./Jupyter/Documents/Regression_Analysis_Exploration.md)
+- A short public presentation (5-7 mins)
+- using the assistance of a visual presentation
+
+The original csv file can be viewed [here](./OriginalData/regression_data.csv).
+The updated csv file can be viewed [here](./UpdatedData/house_price_data.csv).
+*********
 
 
 Initial steps explored how to extract data from website using the html and css code.
 
-A testing phase with annotations can be seen here:
+A basic testing phase with annotations can be seen [here](./SQL/SQL_Solution.md)
 
 
 An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen here:
