@@ -3,10 +3,10 @@
 ### Neil Corteen, May 2021
 
 Music was collated music using various methods:
-Web scraping, single pages,
-Web scraping, multiple pages,
-Application Programming Interface (APIs)
-Application Programming Interface (API) Wrappers
+Web scraping, single pages/
+Web scraping, multiple pages/
+Application Programming Interface (APIs)/
+Application Programming Interface (API) Wrappers/
 
 The main websites used were:
 www.billboard.com
