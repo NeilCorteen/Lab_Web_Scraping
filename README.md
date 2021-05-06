@@ -1,4 +1,4 @@
-# The aim of the project was to collate music data for use in a machine learning application to make user recommendations.
+## The aim of the project was to collate music data for use in a machine learning application to make user recommendations.
 
 ### Neil Corteen, May 2021
 
@@ -37,10 +37,7 @@ An example of using an API functions from Spotify and then collating the informa
 
 
 
-
-
-
-A full outline of the exercise:
+### A full outline of the exercise:
 Business goal:
 •	Check the case_study_gnod.md file.
 •	Make sure you've understood the big picture of your project:
@@ -73,5 +70,3 @@ On Friday, you will present your work to me and Marek, the CEO and founder. Full
 Be open minded about this process: we are agile, and that means that we define our products and features on-the-go, while exploring the tools and the data that's available to us. We'd love you to provide your own vision of the product and the next steps to be taken.
 Lots of luck and strength for this first week with us!
 -Jane
-![image](https://user-images.githubusercontent.com/74732901/117333163-f397b580-ae98-11eb-8c25-6a8f1ab47944.png)
-
