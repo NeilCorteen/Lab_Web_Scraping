@@ -20,7 +20,7 @@ Examples of using an API Wrapper functions from Spotify and then collating the i
 
 [My mini playlist](./Wrappers_my_mini_playlist.ipynb)
 
-[My mini playlist](.//Wrappers_hot_acoustic_playlist_.ipynb) 
+[Hot acoustic playlist](.//Wrappers_hot_acoustic_playlist_.ipynb) 
 
 The next step, in collaboration was to compile datasets to create a larger compilation of music and then test this witihn a unsupervised maschine learning modeling system, which can be seen here:
 
