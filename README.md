@@ -29,13 +29,7 @@ In collaboration, the next step was to compile datasets to create a larger compi
 
 [The Nigerian Funk and Soul Selector](./The%20Nigerian%20Funk%20and%20Soul%20Groove%20Selector.ipynb)
  
- 
-  
-The main websites used were:
-- www.billboard.com
-- www.spotify.com
-- www.imdb.com
-- www.gnoosic.com
+   
   
 ### A full outline of the exercise:
   
