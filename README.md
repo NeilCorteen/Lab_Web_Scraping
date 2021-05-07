@@ -13,25 +13,12 @@ The main websites used were:
 - www.spotify.com
 - www.imdb.com
 
-*********
-- SQL querie Solution [here](./SQL/SQL_Solution.md)
-- A Tableau Dashboard [here](./Tableau/Dashboard_Image.png)
-- Python code [here](./Jupyter/Documents/Regression_Analysis_Exploration.md)
-- A short public presentation (5-7 mins)
-- using the assistance of a visual presentation
 
-The original csv file can be viewed [here](./OriginalData/regression_data.csv).
-The updated csv file can be viewed [here](./UpdatedData/house_price_data.csv).
-*********
-
-
-Initial steps explored how to extract data from website using the html and css code.
+Initial steps explored how to extract data from websites using the html and css code.
 
 A basic testing phase with annotations can be seen [here](./Webscraping_basic_testing_with_annotations.ipynb)
 
-
 An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen [here](./Webscraping_Billboard_Top100.ipynb)
-
 
 An example of using an API functions from Spotify and then collating the information in a dataframe can can be seen here: 
 
@@ -51,19 +38,23 @@ Your product will take a song as an input from the user and will output another 
 You have find data on the internet about currently popular songs. Billboard maintains a weekly Top 100 of "hot" songs here: https://www.billboard.com/charts/hot-100.
 It's a good place to start! Scrape the current top 100 songs and their respective artists, and put the information into a pandas dataframe.
 
-Case Study: The site for recommendations - "Gnod"
-Scenario
+### Case Study: The site for recommendations - "Gnod"
+###Scenario
+  
 You have been hired as a Data Analyst for "Gnod".
 "Gnod" is a site that provides recommendations for music, art, literature and products based on collaborative filtering algorithms. Their flagship product is the music recommender, which you can try at www.gnoosic.com. The site asks users to input 3 bands they like, and computes similarity scores with the rest of the users. Then, they recommend to the user bands that users with similar tastes have picked.
 "Gnod" is a small company, and its only revenue stream so far are adds in the site. In the future, they would like to explore partnership options with music apps (such as Deezer, Soundcloud or even Apple Music and Spotify). However, for that to be possible, they need to expand and improve their recommendations.
 That's precisely where you come. They have hired you as a Data Analyst, and they expect you to bring a mix of technical expertise and business mindset to the table.
 Jane, CTO of Gnod, has sent you an email assigning you with your first task.
 Task(s)
+  
 This is an e-mail Jane - CTO of Gnod - sent over your inbox in the first weeks working there.
 Dear xxxxxxxx, We are thrilled to welcome you as a Data Analyst for Gnoosic!
 As you know, we are trying to come up with ways to enhance our music recommendations. One of the new features we'd like to research is to recommend songs (not only bands). We're also aware of the limitations of our collaborative filtering algorithms, and would like to give users two new possibilities when searching for recommendations:
+  
 •	Songs that are actually similar to the ones they picked from an acoustic point of view.
 •	Songs that are popular around the world right now, independently from their tastes.
+  
 Coming up with the perfect song recommender will take us months - no need to stress out too much. In this first week, we want you to explore new data sources for songs. The Internet is full of information and our first step is to acquire it do an initial exploration. Feel free to use APIs or directly scrape the web to collect as much information as possible from popular songs. Eventually, we'll need to collect data from millions of songs, but we can start with a few hundreds or thousands from each source and see if the collected features are useful.
 Once the data is collected, we want you to create clusters of songs that are similar to each other. The idea is that if a user inputs a song from one group, we'll prioritize giving them recommendations of songs from that same group.
 On Friday, you will present your work to me and Marek, the CEO and founder. Full disclosure: I need you to be very convincing about this whole song-recommender, as this has been my personal push and the main reason we hired you for!
