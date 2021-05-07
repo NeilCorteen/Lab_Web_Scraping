@@ -7,7 +7,8 @@ Music was collated using various methods:
 - Web scraping, multiple pages
 - Application Programming Interface (APIs)
 - Application Programming Interface (API) Wrappers
-  
+
+### Data gathering  
 Initial steps explored how to extract data from websites using the html and css code. A basic testing phase to understand how the HTML code worked with annotations can be seen here: 
   
 [Web scraping and basic testing](./Webscraping_basic_testing_with_annotations.ipynb)
@@ -22,7 +23,9 @@ Examples of using an API Wrapper functions from Spotify and then collating the i
 
 [Hot acoustic playlist](.//Wrappers_hot_acoustic_playlist_.ipynb) 
 
-The next step, in collaboration was to compile datasets to create a larger compilation of music and then test this witihn a unsupervised maschine learning modeling system, which can be seen here:
+
+### Compiling dataframes and modeling
+In collaboration, the next step was to compile datasets to create a larger compilation of music and then test this witihn a unsupervised maschine learning modeling system, which can be seen here:
 
 [The Nigerian Funk and Soul Selector](./The%20Nigerian%20Funk%20and%20Soul%20Groove%20Selector.ipynb)
  
@@ -35,7 +38,8 @@ The main websites used were:
 - www.gnoosic.com
   
 ### A full outline of the exercise:
-Business goal:
+  
+### Business goal:
 •	Check the case_study_gnod.md file.
 •	Make sure you've understood the big picture of your project:
 o	the goal of the company (Gnod),
@@ -49,6 +53,7 @@ You have find data on the internet about currently popular songs. Billboard main
 It's a good place to start! Scrape the current top 100 songs and their respective artists, and put the information into a pandas dataframe.
 
 ### Case Study: The site for recommendations - "Gnod"
+   
 ### Scenario
   
 You have been hired as a Data Analyst for "Gnod".
