@@ -8,17 +8,22 @@ Music was collated using various methods:
 - Application Programming Interface (APIs)
 - Application Programming Interface (API) Wrappers
   
-Initial steps explored how to extract data from websites using the html and css code. A basic testing phase to understand how the HTML code worked with annotations can be seen [here](./Webscraping_basic_testing_with_annotations.ipynb)
+Initial steps explored how to extract data from websites using the html and css code. A basic testing phase to understand how the HTML code worked with annotations can be seen here: 
+[Web scraping and basic testing](./Webscraping_basic_testing_with_annotations.ipynb)
 
-An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen [here](./Webscraping_Billboard_Top100.ipynb)
+An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen here:
+[Web scraping Billboard Top 100](./Webscraping_Billboard_Top100.ipynb)
 
-Examples of using an API Wrapper functions from Spotify and then collating the information in a dataframe can can be seen:
+Examples of using an API Wrapper functions from Spotify and then collating the information in a dataframe can can be seen here:
 
-My mini playlist [here](./Wrappers_my_mini_playlist.ipynb)
+[My mini playlist](./Wrappers_my_mini_playlist.ipynb)
 
-My mini playlist [here](.//Wrappers_hot_acoustic_playlist_.ipynb) 
+[My mini playlist](.//Wrappers_hot_acoustic_playlist_.ipynb) 
 
-The next step, in collaboration was to compile datasets to create a larger compilation of music and then test this witihn a unsupervised maschine learning modeling system, which can be seen [here](./)
+The next step, in collaboration was to compile datasets to create a larger compilation of music and then test this witihn a unsupervised maschine learning modeling system, which can be seen here:
+
+[The Nigerian Funk and Soul Selector](./The%20Nigerian%20Funk%20and%20Soul%20Groove%20Selector.ipynb)
+
   
 The main websites used were:
 - www.billboard.com
