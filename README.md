@@ -61,4 +61,5 @@ Once the data is collected, we want you to create clusters of songs that are sim
 On Friday, you will present your work to me and Marek, the CEO and founder. Full disclosure: I need you to be very convincing about this whole song-recommender, as this has been my personal push and the main reason we hired you for!
 Be open minded about this process: we are agile, and that means that we define our products and features on-the-go, while exploring the tools and the data that's available to us. We'd love you to provide your own vision of the product and the next steps to be taken.
 Lots of luck and strength for this first week with us!
+  
 -Jane
