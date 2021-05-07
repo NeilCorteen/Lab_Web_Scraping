@@ -1,4 +1,4 @@
-## The aim of the project was to collate music data for use in a machine learning application to make user recommendations.
+## The aim of the project was to collate music data for use in a machine learning application to determine user recommendations.
 
 ### Neil Corteen, May 2021
 
