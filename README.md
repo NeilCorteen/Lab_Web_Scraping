@@ -7,12 +7,7 @@ Music was collated music using various methods:
 - Web scraping, multiple pages/
 - Application Programming Interface (APIs)/
 - Application Programming Interface (API) Wrappers/
-
-The main websites used were:
-- www.billboard.com
-- www.spotify.com
-- www.imdb.com
-
+  
 Initial steps explored how to extract data from websites using the html and css code.
 
 A basic testing phase with annotations can be seen [here](./Webscraping_basic_testing_with_annotations.ipynb)
