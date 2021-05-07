@@ -20,14 +20,13 @@ My mini playlist [here](./Wrappers_my_mini_playlist.ipynb)
 
 My mini playlist [here](.//Wrappers_hot_acoustic_playlist_.ipynb) 
 
-The next step, in collaboration was to test a larger compilation of music witihn a none supervised modeling system which can be seen [here](./)
-
-
+The next step, in collaboration was to compile datasets to create a larger compilation of music and then test this witihn a unsupervised maschine learning modeling system, which can be seen [here](./)
+  
 The main websites used were:
 - www.billboard.com
 - www.spotify.com
 - www.imdb.com
-
+  
 ### A full outline of the exercise:
 Business goal:
 •	Check the case_study_gnod.md file.
