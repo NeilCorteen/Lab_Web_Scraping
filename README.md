@@ -25,8 +25,9 @@ Examples of using an API Wrapper functions from Spotify and then collating the i
 The next step, in collaboration was to compile datasets to create a larger compilation of music and then test this witihn a unsupervised maschine learning modeling system, which can be seen here:
 
 [The Nigerian Funk and Soul Selector](./The%20Nigerian%20Funk%20and%20Soul%20Groove%20Selector.ipynb)
-
   
+   
+   
 The main websites used were:
 - www.billboard.com
 - www.spotify.com
