@@ -26,6 +26,7 @@ The main websites used were:
 - www.billboard.com
 - www.spotify.com
 - www.imdb.com
+- www.gnoosic.com
   
 ### A full outline of the exercise:
 Business goal:
