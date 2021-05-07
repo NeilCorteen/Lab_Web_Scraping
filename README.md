@@ -17,10 +17,11 @@ An example of extracting data from billboard using html/css data and then collat
 An example of using an API Wrapper functions from Spotify and then collating the information in a dataframe can can be seen:
  
 [here](./Wrappers_my_mini_playlist.ipynb) My mini playlist
-  
-and [here](./Wrappers_hot_acoustic_playlist_.ipynb) Hot acoustic playlist
-  
+   
+and 
 
+[here](.//Wrappers_hot_acoustic_playlist_.ipynb) Hot acoustic playlist
+  
 
 The main websites used were:
 - www.billboard.com
