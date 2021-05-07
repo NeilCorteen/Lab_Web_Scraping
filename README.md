@@ -9,9 +9,11 @@ Music was collated using various methods:
 - Application Programming Interface (API) Wrappers
   
 Initial steps explored how to extract data from websites using the html and css code. A basic testing phase to understand how the HTML code worked with annotations can be seen here: 
+  
 [Web scraping and basic testing](./Webscraping_basic_testing_with_annotations.ipynb)
 
 An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen here:
+  
 [Web scraping Billboard Top 100](./Webscraping_Billboard_Top100.ipynb)
 
 Examples of using an API Wrapper functions from Spotify and then collating the information in a dataframe can can be seen here:
