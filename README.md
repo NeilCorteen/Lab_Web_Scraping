@@ -21,7 +21,7 @@ Examples of using an API Wrapper functions from Spotify and then collating the i
 
 [My mini playlist](./Wrappers_my_mini_playlist.ipynb)
 
-then with more tracts:
+then with more tracks:
    
 [Hot acoustic playlist](.//Wrappers_hot_acoustic_playlist_.ipynb) 
 
