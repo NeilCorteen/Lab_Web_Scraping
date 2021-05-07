@@ -13,7 +13,6 @@ The main websites used were:
 - www.spotify.com
 - www.imdb.com
 
-
 Initial steps explored how to extract data from websites using the html and css code.
 
 A basic testing phase with annotations can be seen [here](./Webscraping_basic_testing_with_annotations.ipynb)
@@ -22,7 +21,10 @@ An example of extracting data from billboard using html/css data and then collat
 
 An example of using an API functions from Spotify and then collating the information in a dataframe can can be seen here: 
 
-
+The main websites used were:
+- www.billboard.com
+- www.spotify.com
+- www.imdb.com
 
 ### A full outline of the exercise:
 Business goal:
