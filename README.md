@@ -1,16 +1,14 @@
-## The aim of the project was to collate music data for use in a machine learning application to determine user recommendations.
+## Collating music data for use in a machine learning application to determine user recommendations.
 
 ### Neil Corteen, May 2021
 
-Music was collated music using various methods:
+Music was collated using various methods:
 - Web scraping, single pages
 - Web scraping, multiple pages
 - Application Programming Interface (APIs)
 - Application Programming Interface (API) Wrappers
   
-Initial steps explored how to extract data from websites using the html and css code.
-
-A basic testing phase to understand how the HTML code worked with annotations can be seen [here](./Webscraping_basic_testing_with_annotations.ipynb)
+Initial steps explored how to extract data from websites using the html and css code. A basic testing phase to understand how the HTML code worked with annotations can be seen [here](./Webscraping_basic_testing_with_annotations.ipynb)
 
 An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen [here](./Webscraping_Billboard_Top100.ipynb)
 
