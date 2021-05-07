@@ -10,17 +10,18 @@ Music was collated music using various methods:
   
 Initial steps explored how to extract data from websites using the html and css code.
 
-A basic testing phase with annotations can be seen [here](./Webscraping_basic_testing_with_annotations.ipynb)
+A basic testing phase to understand how the HTML code worked with annotations can be seen [here](./Webscraping_basic_testing_with_annotations.ipynb)
 
 An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen [here](./Webscraping_Billboard_Top100.ipynb)
 
 Examples of using an API Wrapper functions from Spotify and then collating the information in a dataframe can can be seen:
 
-My mini playlist [here](./Wrappers_my_mini_playlist.ipynb) and 
+My mini playlist [here](./Wrappers_my_mini_playlist.ipynb)
 
 My mini playlist [here](.//Wrappers_hot_acoustic_playlist_.ipynb) 
 
-  
+The next step, in collaboration was to test a larger compilation of music witihn a none supervised modeling system which can be seen [here](./)
+
 
 The main websites used were:
 - www.billboard.com
