@@ -15,12 +15,13 @@ A basic testing phase with annotations can be seen [here](./Webscraping_basic_te
 An example of extracting data from billboard using html/css data and then collating the information in a dataframe can be seen [here](./Webscraping_Billboard_Top100.ipynb)
 
 An example of using an API Wrapper functions from Spotify and then collating the information in a dataframe can can be seen:
- 
-[here](./Wrappers_my_mini_playlist.ipynb) My mini playlist
+
+My mini playlist [here](./Wrappers_my_mini_playlist.ipynb) 
    
 and 
 
-[here](.//Wrappers_hot_acoustic_playlist_.ipynb) Hot acoustic playlist
+My mini playlist [here](.//Wrappers_hot_acoustic_playlist_.ipynb) 
+
   
 
 The main websites used were:
